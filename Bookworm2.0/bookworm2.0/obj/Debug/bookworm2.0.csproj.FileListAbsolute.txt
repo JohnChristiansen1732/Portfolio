@@ -1,0 +1,33 @@
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\bin\Debug\bookworm2.0.exe.config
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\bin\Debug\bookworm2.0.exe
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\bin\Debug\bookworm2.0.pdb
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\obj\Debug\bookworm2.0.csprojResolveAssemblyReference.cache
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\obj\Debug\bookworm2._0.Form1.resources
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\obj\Debug\bookworm2._0.Properties.Resources.resources
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\obj\Debug\bookworm2.0.csproj.GenerateResource.Cache
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\obj\Debug\bookworm2.0.exe
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\obj\Debug\bookworm2.0.pdb
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\bin\Debug\Aspose.Cells.dll
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\bin\Debug\Aspose.Pdf.dll
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\bin\Debug\Aspose.Words.dll
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\bin\Debug\log4net.dll
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\bin\Debug\Opus.FileManagement.Common.dll
+\\mdmc\corp\home\chrijoh\visual studio 2015\Projects\bookworm2.0\bookworm2.0\bin\Debug\log4net.xml
+C:\VisualStudio\bookworm2.0\bookworm2.0\bin\Debug\bookworm2.0.exe.config
+C:\VisualStudio\bookworm2.0\bookworm2.0\obj\Debug\bookworm2.0.exe
+C:\VisualStudio\bookworm2.0\bookworm2.0\obj\Debug\bookworm2.0.pdb
+C:\VisualStudio\bookworm2.0\bookworm2.0\bin\Debug\bookworm2.0.exe
+C:\VisualStudio\bookworm2.0\bookworm2.0\bin\Debug\bookworm2.0.pdb
+C:\VisualStudio\bookworm2.0\bookworm2.0\bin\Debug\Aspose.Cells.dll
+C:\VisualStudio\bookworm2.0\bookworm2.0\bin\Debug\Aspose.Pdf.dll
+C:\VisualStudio\bookworm2.0\bookworm2.0\bin\Debug\Aspose.Words.dll
+C:\VisualStudio\bookworm2.0\bookworm2.0\bin\Debug\log4net.dll
+C:\VisualStudio\bookworm2.0\bookworm2.0\bin\Debug\Opus.FileManagement.Common.dll
+C:\VisualStudio\bookworm2.0\bookworm2.0\bin\Debug\log4net.xml
+C:\VisualStudio\bookworm2.0\bookworm2.0\obj\Debug\bookworm2.0.csprojResolveAssemblyReference.cache
+C:\VisualStudio\bookworm2.0\bookworm2.0\obj\Debug\bookworm2._0.Properties.Resources.resources
+C:\VisualStudio\bookworm2.0\bookworm2.0\obj\Debug\bookworm2.0.csproj.GenerateResource.Cache
+C:\VisualStudio\bookworm2.0\bookworm2.0\obj\Debug\Bookworm.Form1.resources
+C:\Users\John\Documents\JobStuff\Portfolio\Bookworm2.0\bookworm2.0\bin\Debug\bookworm2.0.exe.config
+C:\Users\John\Documents\JobStuff\Portfolio\Bookworm2.0\bookworm2.0\obj\Debug\bookworm2.0.exe
+C:\Users\John\Documents\JobStuff\Portfolio\Bookworm2.0\bookworm2.0\obj\Debug\bookworm2.0.pdb

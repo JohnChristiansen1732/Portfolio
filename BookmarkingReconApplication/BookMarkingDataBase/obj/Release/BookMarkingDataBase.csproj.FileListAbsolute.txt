@@ -1,0 +1,16 @@
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\bin\Release\BookMarkingDataBase.exe.config
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\bin\Release\BookMarkingDataBase.exe
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\bin\Release\BookMarkingDataBase.pdb
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\bin\Release\Aspose.Cells.dll
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\bin\Release\Aspose.Pdf.dll
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\bin\Release\Aspose.Words.dll
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\bin\Release\log4net.dll
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\bin\Release\log4net.xml
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\obj\Release\BookMarkingDataBase.bookmarkingPageCountsForm.resources
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\obj\Release\BookMarkingDataBase.Properties.Resources.resources
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\obj\Release\BookMarkingDataBase.csproj.GenerateResource.Cache
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\obj\Release\BookMarkingDataBase.exe
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\obj\Release\BookMarkingDataBase.pdb
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\bin\Release\Aspose.Total.lic
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\bin\Release\Opus.FileManagement.Common.dll
+C:\VisualStudio\BookMarkingDataBase\BookMarkingDataBase\obj\Release\BookMarkingDataBase.csprojResolveAssemblyReference.cache

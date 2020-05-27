@@ -1,0 +1,16 @@
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bin\Debug\ReverseMap\resources.pri
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bin\Debug\AppxManifest.xml
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bin\Debug\ReviewApp.build.appxrecipe
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\ResourceHandlingTask.state
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\priconfig.xml
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\priconfig.xml.intermediate
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\layout.resfiles
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\layout.resfiles.intermediate
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\resources.resfiles
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\resources.resfiles.intermediate
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\pri.resfiles
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\pri.resfiles.intermediate
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\qualifiers.txt
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\qualifiers.txt.intermediate
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\john\documents\visual studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\ProjectArchitectures.txt

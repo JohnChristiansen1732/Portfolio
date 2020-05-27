@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-JGBO3AT</Machine>
+    <WindowsUser>John</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c7e03f86-0de3-4eac-991a-15b87d2885bd</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>63251D0D1831C849CD36A64B14A24816ECBF02FB73AE71021999F85E97444CCC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c7e03f86-0de3-4eac-991a-15b87d2885bd_1.0.0.0_neutral__v2eq8qs7wm15j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c7e03f86-0de3-4eac-991a-15b87d2885bd_v2eq8qs7wm15j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c7e03f86-0de3-4eac-991a-15b87d2885bd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=John</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-31T23:04:52.506</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\Addnew\addnew.html">
+      <PackagePath>Addnew\addnew.html</PackagePath>
+      <Modified>2016-05-30T15:34:02.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\Edit\edit.html">
+      <PackagePath>Edit\edit.html</PackagePath>
+      <Modified>2016-05-30T15:34:02.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-05-22T14:23:09.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\Login\login.html">
+      <PackagePath>Login\login.html</PackagePath>
+      <Modified>2016-05-30T15:34:02.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\View\view.html">
+      <PackagePath>View\view.html</PackagePath>
+      <Modified>2016-05-31T23:59:29.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\Welcome\welcome.html">
+      <PackagePath>Welcome\welcome.html</PackagePath>
+      <Modified>2016-05-27T01:10:29.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\Addnew\addnew.js">
+      <PackagePath>Addnew\addnew.js</PackagePath>
+      <Modified>2016-05-30T17:04:10.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\Edit\edit.js">
+      <PackagePath>Edit\edit.js</PackagePath>
+      <Modified>2016-05-30T17:04:10.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-05-22T14:27:19.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-03-25T02:46:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-03-25T02:46:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\Login\login.js">
+      <PackagePath>Login\login.js</PackagePath>
+      <Modified>2016-05-30T17:04:10.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\View\view.js">
+      <PackagePath>View\view.js</PackagePath>
+      <Modified>2016-05-31T23:57:53.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\Welcome\welcome.js">
+      <PackagePath>Welcome\welcome.js</PackagePath>
+      <Modified>2016-05-30T17:04:10.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-07-22T23:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T23:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T23:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T23:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T23:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T23:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T23:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-05-22T14:21:58.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-03-25T02:46:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-03-25T02:46:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\John\Documents\Visual Studio 2015\Projects\ReviewApp\ReviewApp\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-31T23:04:52.306</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

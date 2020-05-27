@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Data>
+    <LicensedTo>Opus CMC</LicensedTo>
+    <LicenseType>Developer Small Business</LicenseType>
+    <LicenseNote>Limited to 1 developer.</LicenseNote>
+    <OrderID>140131105449</OrderID>
+    <OEM>This is not a redistributable license</OEM>
+    <Products>
+      <Product>Aspose.Total</Product>
+    </Products>
+    <EditionType>Enterprise</EditionType>
+    <SerialNumber>d75fb3e1-bab5-4b17-aa50-2f2031f3c0a9</SerialNumber>
+    <SubscriptionExpiry>20150131</SubscriptionExpiry>
+    <LicenseVersion>2.2</LicenseVersion>
+  </Data>
+  <Signature>ADgmn84cGTLRYR+7feE0HbAHBL956vcLELJ1W+HaGfI0AWmfS2Noi/CRRKlvzESOVIVv1AufEjQFgW6C/VtwgW9Pk4tQ5ytphuF5XpAea5ZhLAB1phpbAOlIsro1H5A8dnu6Fx/P/oDtOKL82WpzoEZNSdhsNhUYhFSo0JtLagk=</Signature>
+</License>

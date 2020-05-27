@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="/Addnew/addnew.js"></script>
+</head>
+<body class="win-type-body">
+    <div id="homepage">
+        <h1 class="win-h1" id="header">New Review</h1>
+        <label class="win-label">Restaurant Name</label>
+        <input id="name" class="win-textbox" /> <br />
+
+        <label class="win-label">Address</label>
+        <input id="address" class="win-textbox" /> 
+        <input id="currentAddress" type="checkbox" />Use Current Address<br />
+
+        <label class="win-label">Rating</label>
+        <div id="rating" data-win-control="WinJS.UI.Rating"></div>
+
+        <button id="addButton" class="win-button">Add Review</button>
+        <div id="StatusMessage"></div>
+    </div>
+</body>
+</html>
